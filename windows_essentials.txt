@@ -17,3 +17,22 @@
 16. Team Viewer 
 17. Zoom 
 18. uTorrent & Torrent Search 
+----------------------------------------------
+Google-Chrome_Essentials
+Bookmarks
+1. Strathmore-Elearning 
+2. AMS Students' Module
+3. Gmail 
+4. Github.
+5. YouTube
+6. Typeracer
+7. TypingTest
+8. TypingCat
+9. LocalHost XAMPP Server
+10. Login OCAS
+11. Whatsapp-Web
+12. Facebook.com
+13. MP3 Juice
+14. Amazon
+15. PDF converter 
+16. Daily Bible Verses 
