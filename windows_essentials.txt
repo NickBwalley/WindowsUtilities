@@ -1,0 +1,19 @@
+0. Google Chrome
+1. Codeblocks 
+2. PyCharm 
+3. Netbeans 8.2 
+4. Eclipse IDE 
+5. Xampp
+6. Dukto R6
+7. Atom 
+8. Visual Studio Code
+9. Sublime Text 
+10. IDM Downloader 
+11. TypeMaster Pro
+12. GitBash
+13. StarUML
+14. WireShark
+15. Cisco Packet Tracer
+16. Team Viewer 
+17. Zoom 
+18. uTorrent & Torrent Search 
