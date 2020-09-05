@@ -1,0 +1,6 @@
+1. ipconfig/release
+2. ipconfig/all
+3. ipconfig/flushdns
+4. ipconfig/renew
+5. netsh int ip set dns
+6. netsh winsock reset
