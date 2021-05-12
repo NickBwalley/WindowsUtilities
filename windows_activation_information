@@ -1,0 +1,3 @@
+$ Run CMD as Administrator
+$ slmgr.vbs /xpr # Check Expiry date for current license 
+$ slmgr.vbs /dli # display license information
